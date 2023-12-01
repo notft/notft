@@ -1,4 +1,4 @@
-👋 Hello Aibel Bin Zacariah! 🚀
+
 
 ```markdown
 I'm Aibel Bin Zacariah, a passionate coder and UX designer currently pursuing a degree in Artificial Intelligence and Data Science.
