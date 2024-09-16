@@ -1,7 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
 
 ### <div align="center">I'm Aibel, a full-time John Wick fan with craze for brain computing, developments, network security and hardware expertise. </div>  
   
