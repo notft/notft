@@ -2,19 +2,19 @@
 ### <div align="center">I'm Aibel, a full-time John Wick fan with craze for brain computing, developments, network security and hardware expertise. </div>  
   
 
-- 🔭 I’m currently working on [Akira (A food for the needy NGO project)](https://github.com/notft/Akira)  
+- 🔭 I’m currently working on [Akira (A food for the needy NGO project)](https://github.com/notft/Nasa_space_apps)  
   
 
 - 🌱 I’m currently mastering JS and DevOps  
   
 
-- ❓ Ask me about anything related to Network penetration testing and Hardware (mainly Arduino)  
+- ❓ Ask me about anything related to Brain computer Interfacing and Hardware (mainly Arduino)  
   
 
 - ⚡ Fun fact: I like donuts 🍩  
   
 
-- 💻 Oh, I also freelance Video edits and some UI UX designs  
+- 💻 Oh, I also write Blogs! 
   
 
 <br/>  
